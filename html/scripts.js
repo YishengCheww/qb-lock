@@ -80,7 +80,7 @@ function animate_to() {
         return;
     }
 
-    degrees+=2;
+    degrees+=0.5; //here you can edit the circle speed
     init();
 }
 
